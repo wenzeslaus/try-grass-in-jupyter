@@ -13,8 +13,9 @@ To run the notebook locally, you need to install the required software
 and download the data. The following files in the repository specify
 (for Binder) what needs to be prepared for the notebook to run:
 
-* apt.txt (required packages)
+* apt.txt (system packages)
 * runtime.txt (Python version)
+* requirements.txt (Python packages)
 * postBuild (data downloads)
 
 ## Branches (suggestion)
