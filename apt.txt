@@ -24,6 +24,7 @@ libreadline-dev
 libsqlite3-dev
 libtiff-dev
 libxmu-dev
+libzstd-dev
 make
 netcdf-bin
 proj-bin

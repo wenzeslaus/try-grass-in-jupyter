@@ -19,7 +19,6 @@ cd grass
     --with-readline \
     --with-bzlib \
     --with-pthread \
-    --with-zstd-includes=/srv/conda/include/ \
     --with-proj-share=/usr/share/proj \
     --with-geos=/usr/bin/geos-config \
     --with-cairo \
