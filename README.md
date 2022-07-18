@@ -2,7 +2,7 @@
 
 This repo was replaced by notebooks in the official repo see, e.g., [grass_jupyter.ipynb for 8.2.0 using Binder](https://mybinder.org/v2/gh/OSGeo/grass/8.2.0?urlpath=lab%2Ftree%2Fdoc%2Fnotebooks%2Fgrass_jupyter.ipynb).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wenzeslaus/try-grass-in-jupyter/master?filepath=notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wenzeslaus/try-grass-in-jupyter/main?labpath=notebook.ipynb)
 
 Jupyter Notebook for trying GRASS GIS in *Binder*.
 
