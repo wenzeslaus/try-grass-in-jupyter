@@ -1,6 +1,6 @@
 # Try GRASS GIS in Jupyter Notebook with Python
 
-This repo was replaced by notebooks in the official repo see, e.g., (grass_jupyter.ipynb for 8.2.0 using Binder)[https://mybinder.org/v2/gh/OSGeo/grass/8.2.0?urlpath=lab%2Ftree%2Fdoc%2Fnotebooks%2Fgrass_jupyter.ipynb].
+This repo was replaced by notebooks in the official repo see, e.g., [grass_jupyter.ipynb for 8.2.0 using Binder](https://mybinder.org/v2/gh/OSGeo/grass/8.2.0?urlpath=lab%2Ftree%2Fdoc%2Fnotebooks%2Fgrass_jupyter.ipynb).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wenzeslaus/try-grass-in-jupyter/master?filepath=notebook.ipynb)
 
